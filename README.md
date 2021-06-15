@@ -1,3 +1,10 @@
 # oil-project
-Predicts crude oil price using crude oil supply data. 
-The latest version of the model is in main.ipynb
+
+Runs ARIMA to predict stock values in the future. 
+
+Runs Polynomial Regression to predict price using stock values. 
+
+RMSE of 9.8
+
+All data come from U.S. Energy Information Administration.
+
